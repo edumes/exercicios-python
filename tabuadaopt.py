@@ -1,0 +1,5 @@
+num = int(input('digite um numero para ver a sua respectiva tabuada'))
+print('-' * 12)
+print(' |{} x {:2} = {}'.format(num, 1, num*1))
+print(' |{} x {:2} = {}'.format(num, 2, num*2))
+print('-' * 12)
